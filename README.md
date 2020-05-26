@@ -1,3 +1,6 @@
 # csv-parser
+Requirements: Composer
 
-Test with sample csv file in sample folder.
+After cloneing the repo, run command: composer dump
+
+Test with examples.csv file in sample folder.
