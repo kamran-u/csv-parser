@@ -1,5 +1,5 @@
 # csv-parser
-Requirements: Composer
+Requirements: PHP 7 and Composer
 
 After cloneing the repo, run command: composer dump
 
